@@ -30,7 +30,12 @@ My research interests mainly include physical-layer security in wireless communi
 # 📝 Publications 
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Improving physical layer security for distributed antenna systems with a friendly jammer, **Xiao Jiang**, Peng Li, Yuling Shang, Yulong Zou, Bin Li, Peishun Yan, **IEEE Transactions on Communications 2024**
+- Secure transmission for wireless communication systems with friendly jammers, **Xiao Jiang**, Peng Li, Yulong Zou, Bin Li, Ruchuan Wang, **IEEE Transactions on Vehicular Technology 2023**
+- 	Physical layer security for cognitive multiuser networks with hardware impairments and channel estimation errors, **Xiao Jiang**, Peng Li, Yulong Zou, Bin Li, Ruchuan Wang, **IEEE Transactions on Communications 2022**
+- 	Intelligent jamming strategies for secure spectrum sharing systems, **Xiao Jiang**, Peng Li, Bin Li, Yulong Zou, Ruchuan Wang, **IEEE Transactions on Communications 2022**
+- 	Joint power splitting and relay selection in energy-harvesting communications for IoT networks, Yulong Zou, Jia Zhu, **Xiao Jiang**, **IEEE Internet of Things Journal 2019**
+- 	Friendly jammer selection improves physical layer security in energy harvesting communications over Nakagami-m channels, **Xiao Jiang**, Hui Geng, Peishun Yan, **Wireless Networks 2025**
 
 # 🎖 Honors and Awards
 
