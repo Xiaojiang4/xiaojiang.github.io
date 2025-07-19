@@ -9,7 +9,7 @@
 title                    : "Xiao Jiang"
 description              : "Every challenge ascended reveals new connections, and every convergence propels the next rise"
 repository               : "Xiaojiang4/xiaojiang.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
