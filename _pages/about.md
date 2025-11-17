@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🔥 About Me
-My name is Xiao Jiang. I received the M.S. degree in signal and information processing from the Nanjing University of Posts and Telecommunications (NUPT), Nanjing, China, in 2019, the Ph.D. degree in information security from the NUPT, in 2024. 
+My name is Xiao Jiang (姜晓). I received the M.S. degree in signal and information processing from the Nanjing University of Posts and Telecommunications (NUPT), Nanjing, China, in 2019, the Ph.D. degree in information security from the NUPT, in 2024. 
 
 
 My research interests mainly include physical-layer security in wireless communications, space-air-ground integrated networks, reconfigurable intelligent surfaces (RIS), etc.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 
+- *2025.11*: &nbsp;🎉🎉 A paper  has been accepted by  IEEE Transactions on Cognitive Communications and Networking. 
 
 
 # 📝 Publications 
-
+- Secure Cognitive Satellite-Terrestrial Networks: From Adaptive Eavesdropper Perspective, **Xiao Jiang**, Peishun Yan, Bin Li, Weijie Tan, Yulong Zou, Wanming Hao, and Chunguo Li, **IEEE Transactions on Cognitive Communications and Networking 2025**
 
 - Improving physical layer security for distributed antenna systems with a friendly jammer, **Xiao Jiang**, Peng Li, Yuling Shang, Yulong Zou, Bin Li, Peishun Yan, **IEEE Transactions on Communications 2024**
 - Secure transmission for wireless communication systems with friendly jammers, **Xiao Jiang**, Peng Li, Yulong Zou, Bin Li, Ruchuan Wang, **IEEE Transactions on Vehicular Technology 2023**
